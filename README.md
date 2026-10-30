@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Sophia Vo
-sovo@ucsd.edu
+Sophia Vo and Simone Rao
